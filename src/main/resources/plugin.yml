@@ -1,0 +1,12 @@
+name: BigSmallPlugin
+main: com.example.myplugin.Main
+version: "1.0.0"
+api: "1.0.0"
+author: vexxar99
+description: Плагин на уменьшение
+
+commands:
+  big:
+    usage: "/big"
+  small:
+    usage: "/small"
